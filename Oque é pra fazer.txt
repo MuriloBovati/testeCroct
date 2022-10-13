@@ -1,0 +1,15 @@
+Oi Murilo, tudo bem?
+Como próximo passo do nosso processo seletivo, gostaríamos de te convidar para um case técnico que se aproxima bastante de como será seu dia a dia como Customer Success Engineer.
+Temos dois links de documentação que enviamos para nossos clientes implementarem a Croct:
+•	Lib de Js
+•	Lib de React
+Nós esperamos que você:
+•	Execute o QuickStart (usando Js ou React)
+•	Elabore um feedback de como foi sua experiência
+•	Aplique a Croct em algum projeto usando a app ID: 00000000-0000-0000-0000-000000000000
+Dicas 🤓
+•	Você pode entrar no nosso canal do slack Croct Community e usar o canal #support para qualquer dúvida
+•	Pra você se inspirar em alguns cases de sucesso: https://croct.com/pt-br/materiais-educativos/
+A entrega fica agendada para a próxima sexta.
+E aí! Topa?
+Abs,

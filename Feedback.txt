@@ -1,0 +1,7 @@
+--Aprendizado
+Confuso inicialmente,
+video ou gifs interativos ajudariam muito na parte inicial da implementação
+
+Exemplos do arquivo com problema de versionamento React-dom/client not fold
+caso atualize a versão da erro em outros arquivos
+
